@@ -26,8 +26,6 @@ Microsoft
 
 英伟达
 NVIDIA
-黄仁勋
-
 AMD
 
 谷歌
@@ -50,9 +48,7 @@ ios
 ai
 !gai
 人工智能
-
 自动驾驶
-
 机器人
 
 国产
