@@ -1,5 +1,3 @@
-DeepSeek
-
 Bolt
 网约车
 共享
@@ -10,13 +8,6 @@ Bird
 滑板车
 电池
 电动
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
 
 特斯拉
 马斯克
@@ -33,10 +24,6 @@ google
 gemini
 deepmind
 
-chatgpt
-openai
-sora
-
 claude
 Anthropic
 
@@ -50,9 +37,14 @@ ai
 人工智能
 自动驾驶
 机器人
+chatgpt
+openai
+sora
 
 国产
 中国
+华为
+比亚迪
 
 美国
 日本
@@ -61,13 +53,11 @@ ai
 芯片
 光刻机
 
-科技
-
 核能
-
 
 新质生产力
 
+科技
 月球
 登月
 火星
