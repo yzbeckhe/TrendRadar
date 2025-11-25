@@ -23,14 +23,8 @@ AMD
 google
 gemini
 deepmind
-
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -41,14 +35,11 @@ chatgpt
 openai
 sora
 
-国产
 中国
-华为
-比亚迪
-
 美国
 日本
-韩国
+欧盟
+欧洲
 
 芯片
 光刻机
